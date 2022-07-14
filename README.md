@@ -3,7 +3,7 @@
 ### I am a Python backend developer
 
 
-[![Build Status]
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 <!--
 **Raa78/Raa78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
