@@ -7,10 +7,10 @@
 - Python (ООП)
 - GIT
 - Реляционные базы данных, SQL
-- Framework Django, Django REST Framework
+- Framework Django, Django REST Framework, Unittest
 - PostgreSQL, SQLite
 - Docker, Docker Compose
-- Яндекс.Облако
+- Yandex.Cloud, Nginx
 
 
 
