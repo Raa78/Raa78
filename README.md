@@ -10,7 +10,7 @@
 - Framework Django, Django REST Framework, Unittest
 - PostgreSQL, SQLite
 - Docker, Docker Compose
-- Yandex.Cloud, Nginx
+- Yandex.Cloud, Linux, Nginx
 
 
 
