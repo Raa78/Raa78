@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi there 👋 I`m Andrey.
 
-### I am a Python backend developer
+
+### I am a Python backend developer.
+
+### I
 
 
 
