@@ -1,7 +1,7 @@
 ## Hi there 👋 I`m Andrey.
 
-
-### I am a Python backend developer.
+### I graduated from Yandex.racticum 
+### I`m a Python backend developer.
 
 ![image](https://user-images.githubusercontent.com/90990985/179191422-9ca9e6bc-71c6-47e2-b3b0-4484293ba5d5.png) I work with:
 - Python (ООП)
