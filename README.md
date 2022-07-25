@@ -15,8 +15,7 @@ I work with:
 Мои контакты для связи:
 
 e-mail: rubtsov.job@icloud.com 
-
-telegram: @anru
+[![Telegram](https://img.shields.io/badge/Telegram-ping-%232CA5E0?style=flat&logo=telegram)](https://t.me/anru)
 
 
 <!--
