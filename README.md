@@ -13,7 +13,7 @@ I work with:
 - Yandex.Cloud, Linux, Nginx
 
 
-#### Мои контакты для связи:
+#### Contacts for communication:
 
 [![Email](https://img.shields.io/badge/Email-address-brightgreen)](mailto:rubtsov.job@icloud.com)
 [![Email](https://img.shields.io/badge/Email-ping-%232CA5E0?style=flat&logo=email)](mailto:rubtsov.job@icloud.com)
