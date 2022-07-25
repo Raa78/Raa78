@@ -4,7 +4,7 @@
 ### I`m a Python backend developer.
 
 I work with:
-- Python (ООП) ![Python](https://img.shields.io/badge/python-programming-brightgreen)
+- Python (ООП)
 - GIT
 - Реляционные базы данных, SQL
 - Framework Django, Django REST Framework, Unittest
