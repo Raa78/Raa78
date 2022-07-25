@@ -13,7 +13,9 @@ I work with:
 - Yandex.Cloud, Linux, Nginx
 
 Мои контакты для связи:
+
 e-mail: rubtsov.job@icloud.com 
+
 telegram: @anru
 
 
