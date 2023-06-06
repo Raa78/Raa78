@@ -16,7 +16,6 @@ I work with:
 #### Contacts for communication:
 
 [![Email](https://img.shields.io/badge/Email-address-brightgreen)](mailto:rubtsov.job@icloud.com)
-[![Email](https://img.shields.io/badge/Email-ping-%232CA5E0?style=flat&logo=email)](mailto:rubtsov.job@icloud.com)
 [![Telegram](https://img.shields.io/badge/Telegram-profile-%232CA5E0?style=flat&logo=telegram)](https://t.me/anrunn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrey-rubtsov-45505294/)
 
