@@ -21,7 +21,7 @@ I work with:
    
 - GIT, GitFlow, GitHub
 
-- Yandex.Cloud, Linux, Nginx, Gunicorn
+- Yandex.Cloud, Timeweb.Cloud, Linux, Nginx, Gunicorn
 
 #### Contacts for communication:
 
