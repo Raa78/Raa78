@@ -1,17 +1,27 @@
 ## Hi there 👋 I`m Andrey.
 
 ### I graduated from Yandex.racticum 
-### I`m a Python backend developer.
+### I`m a front/backend developer.
 
 I work with:
 - Python (ООП)
-- GIT
-- Реляционные базы данных, SQL
 - Framework Django, Django REST Framework, Unittest
-- PostgreSQL, SQLite
-- Docker, Docker Compose
-- Yandex.Cloud, Linux, Nginx
+  
+- HTML, CSS, БЭМ
+- Figma
+- Препроцессоры CSS (SASS, SCSS)
+- Адаптивная и кросс-браузерная верстка
+- Bootstrap 3,4,5
+- Java Script
+- React, React Hooks, Redux Toolkit
+  
+- Реляционные базы данных, SQL (PostgreSQL, MariaDB, MySQL)
 
+- Docker, Docker Compose
+   
+- GIT, GitFlow, GitHub
+
+- Yandex.Cloud, Linux, Nginx, Gunicorn
 
 #### Contacts for communication:
 
